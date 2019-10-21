@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92db87d0-7a4c-4eee-9ad1-ab093dbf5829" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SV5j7g2R2cwjMAlVNfZgTro2l7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fudan.Utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.alphaWriteTest.write">
+    <configuration name="FileImplTest.move" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alphaFileSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fudan.File.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fudan.File.Impl" />
+      <option name="MAIN_CLASS_NAME" value="com.fudan.File.Impl.FileImplTest" />
+      <option name="METHOD_NAME" value="move" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="alphaCatTest.getOriginalFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alphaFileSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fudan.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fudan.Utils" />
+      <option name="MAIN_CLASS_NAME" value="com.fudan.Utils.alphaCatTest" />
+      <option name="METHOD_NAME" value="getOriginalFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="alphaCopyTest.copy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alphaFileSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fudan.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fudan.Utils" />
+      <option name="MAIN_CLASS_NAME" value="com.fudan.Utils.alphaCopyTest" />
+      <option name="METHOD_NAME" value="copy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="alphaSaveTest.saveFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alphaFileSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fudan.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fudan.Utils" />
+      <option name="MAIN_CLASS_NAME" value="com.fudan.Utils.alphaSaveTest" />
+      <option name="METHOD_NAME" value="saveFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="alphaWriteTest.write" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alphaFileSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fudan.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fudan.Utils" />
+      <option name="MAIN_CLASS_NAME" value="com.fudan.Utils.alphaWriteTest" />
+      <option name="METHOD_NAME" value="write" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.alphaWriteTest.write" />
+        <item itemvalue="JUnit.alphaSaveTest.saveFile" />
+        <item itemvalue="JUnit.alphaCatTest.getOriginalFile" />
+        <item itemvalue="JUnit.alphaCopyTest.copy" />
+        <item itemvalue="JUnit.FileImplTest.move" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92db87d0-7a4c-4eee-9ad1-ab093dbf5829" name="Default Changelist" comment="" />
+      <created>1571636055021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571636055021</updated>
+      <workItem from="1571636057631" duration="5102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/fudan/Utils/alphaSaveTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fudan/File/Impl/FileImpl.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
